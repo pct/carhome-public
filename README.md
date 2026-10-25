@@ -4,7 +4,7 @@
 
 ## ⬇️ 下載
 
-車機瀏覽器輸入 **`1tron.ai/carhome.apk`** 就能下載　·　或點 **[下載最新版 APK](https://github.com/pct/carhome-public/releases/latest/download/carhome-public.apk)**　·　[所有版本與更新說明](https://github.com/pct/carhome-public/releases)
+**[1tron.ai/carhome.apk](https://1tron.ai/carhome.apk)**（車機瀏覽器直接輸入這個網址）　·　[所有版本與更新說明](https://github.com/pct/carhome-public/releases)
 
 裝好之後，新版會在畫面上方出現「有新版」，點一下就能更新。
 
