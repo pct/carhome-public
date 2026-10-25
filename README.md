@@ -4,7 +4,7 @@
 
 ## ⬇️ 下載
 
-**[下載最新版 APK](https://github.com/pct/carhome-public/releases/latest/download/carhome-public.apk)**　·　[所有版本與更新說明](https://github.com/pct/carhome-public/releases)
+車機瀏覽器輸入 **`1tron.ai/carhome.apk`** 就能下載　·　或點 **[下載最新版 APK](https://github.com/pct/carhome-public/releases/latest/download/carhome-public.apk)**　·　[所有版本與更新說明](https://github.com/pct/carhome-public/releases)
 
 裝好之後，新版會在畫面上方出現「有新版」，點一下就能更新。
 
@@ -17,7 +17,7 @@
 - **語音控制**：導航、放 YouTube、報時、問前面有沒有測速；也能直接打開 ChatGPT。
 
 ## 安裝
-1. 在車機瀏覽器開上面的「下載最新版 APK」，或把 APK 用隨身碟複製進盒子，在「檔案管理」點它。
+1. 在車機瀏覽器輸入 `1tron.ai/carhome.apk`，或把 APK 用隨身碟複製進盒子，在「檔案管理」點它。
 2. 跳出「不允許安裝這個來源的應用程式」→「設定」→ 打開「允許這個來源」→ 返回按「安裝」。
 3. 開一次「開車趣」，權限都允許（位置、通知；麥克風第一次語音控制時才會問）。
 4. 按 Home 鍵選「開車趣」→「一律」，就是預設主畫面。改回原廠：設定 → 應用程式 → 預設應用程式 → 主畫面應用程式。
